@@ -1,0 +1,5 @@
+body::before {
+    background: #040404 url("../img/sss.jpg") top right no-repeat !important;
+    background-size: cover !important;
+    
+}
